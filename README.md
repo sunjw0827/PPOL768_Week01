@@ -11,22 +11,3 @@ I'm a 2nd year MPP student. I began to learn STATA through my quant classes in M
 
 I touched a little on GitHub through Intro to DS class but I am not very skilled at using the branch and merge tools via GitHub in group project. I haven't heard or learn anything about SurveyCTO before.  
 
-2. Image
-
-![bio image](/img/bio.png)
-
-![bio image2](img/Wuhan.png)
-
-3. Research Interest
-
-Currently I'm doing a Capstone project for an education NGO, [the Varkey Foundation](https://www.varkeyfoundation.org/ "the Varkey Foundation") to deliver character education to Latin American kids. I'm also interested in studying education equality for migrant workers's children in China.
-
-4. Table
-
-| Programming tool | Degree of Mastery |
-|------------------|-------------------|
-| Stata            | Medium            |
-| Rstudio          | Medium            |
-| SurveyCTO        | No                |
-
-
